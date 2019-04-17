@@ -13,11 +13,11 @@
 
 
 },
-{"name":"https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8",
+{"name":"http://87.120.36.97:2546/usa2019/amcusa/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE5IDc6NTA6MzQgQU0maGFzaF92YWx1ZT1uYk4xNjFWWW1FeHBXam45dWxRSHhnPT0mdmFsaWRtaW51dGVzPTI=",
 "noofsongs":245,
 "image":"https://web-cdn.blivenyc.com/generic/mee.logo-golden-trans.png",
-		"urlvideo":"https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8",
-				"title":"AKC TV"
+		"urlvideo":"http://87.120.36.97:2546/usa2019/amcusa/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE5IDc6NTA6MzQgQU0maGFzaF92YWx1ZT1uYk4xNjFWWW1FeHBXam45dWxRSHhnPT0mdmFsaWRtaW51dGVzPTI=",
+				"title":"AMC"
 
 
 },
