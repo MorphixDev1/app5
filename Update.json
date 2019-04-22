@@ -1,8 +1,9 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
-  "url": "http://jxc.app.jxcstatic.com/download/jxonline_app/android/0.5.3/JxOnline_release_0.5.3_180925092938.apk",
-  "msg": "1, optimize player sound issues",
-  "size": "61865984",
-  "md5":"1d79f574b08dfd3f4144d5af8c0593e8"
+    "versionCode": 2,
+    "isForceUpdate": 2,
+    "preBaselineCode": 2,
+    "versionName": "1.0",
+    "downUrl": "http://xx.apk",
+    "md5":"xxxxxxxxx",
+    "updateLog": "xxx,xxx,xx"
 }
