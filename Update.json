@@ -1,0 +1,10 @@
+{
+    "updateInfo": {
+        "appName": "name",
+        "appDescription": "description",
+        "packageName": "com....",
+        "versionCode": 9,
+        "versionName": "1.08",
+        "apkUrl": "http://..."
+        }
+}
