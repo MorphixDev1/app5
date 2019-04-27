@@ -1,12 +1,12 @@
 {
   "movies": [
     {
-      "movie": "Avengers",
+      "movie": "Update",
       "year": 2012,
       "rating": 7.8,
-      "duration": "141 min",
+
       "director": "Joss Whedon",
-      "tagline": "A new age begins",
+      "tagline": "1.2",
       "cast": [
         {
           "name": "Robert Downey Jr."
