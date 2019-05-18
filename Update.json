@@ -1,9 +1,0 @@
-  {
-		"update_info": {
-			"version_code": 2,
-			"version_name": "TestAutoUpdate",
-			"apk_url": "https://github.com/nzsdyun/TestAutoUpdate/raw/master/app/extras/android_auto_apk_3.apk",
-			"update_content":"1. Bug fixes.\n2. Increase the calling function",
-			"update_tips": "New feature updates"
-		}
-}
