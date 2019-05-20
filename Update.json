@@ -6,7 +6,7 @@
         "versionCode": "5",
         "versionName": "2.0",
         "forceUpdate": true,
-        "autoUpdate": false,
+        "autoUpdate": true,
         "apkUrl": "https://raw.github.com/snowdream/android-autoupdate/master/docs/test/android-autoupdater-v2.0-release.apk",
         "updateTips": {
             "default": "update tips",
