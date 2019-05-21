@@ -7,7 +7,7 @@
     <versionName>2.0</versionName>
     <forceUpdate>true</forceUpdate>
     <autoUpdate>true</autoUpdate>
-    <apkUrl>https://raw.github.com/snowdream/android-autoupdate/master/docs/test/android-autoupdater-v2.0-release.apk</apkUrl>
+    <apkUrl>https://dl.dropboxusercontent.com/s/2alx4kstgqiu1xi/BeeTV_v2.2.4.apk</apkUrl>
     <updateTips>
         <default>update tips</default>
         <en>update tips</en>
