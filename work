@@ -1,0 +1,21 @@
+{
+	"packageName": "com.example.app1",
+	"updates": [
+		{
+			 "descriptions": {
+				 "tr": {
+					 "message": "Yeni versiyon yayınlanmıştır",
+					 "positive_button": "Güncelle",
+					 "negative_button": "İptal"
+				 },
+				 "*": {
+					 "message": "New version available",
+					 "positive_button": "Update",
+					 "negative_button": "Cancel"
+				 }
+			 },
+			 "targetVersionCode": 1,
+			 "targetPackageUrl": "http://example.com/app1-v10.apk"
+		}
+	]
+}
