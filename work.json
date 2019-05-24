@@ -14,7 +14,7 @@
 					 "negative_button": "Cancel"
 				 }
 			 },
-			 "targetVersionCode": 1,
+			 "targetVersionCode": 2,
 			 "targetPackageUrl": "http://example.com/app1-v10.apk"
 		}
 	]
