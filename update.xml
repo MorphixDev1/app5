@@ -1,5 +1,5 @@
 <update>
 	<version>2</version>
 	<name>RHCIMS_2</name>
-	<url>http://192.168.1.103:8080/image/package/app-release.apk</url>
+	<url>https://github.com/movieapp5/app5/blob/master/solextv.apk?raw=true</url>
 </update>
